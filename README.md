@@ -1,2 +1,2 @@
 # DashboardUsingExcel
-This is a dashboard using Excel for data cleaning preparation and analysis to streamline and optimize data flow and gain insights on the future of the business.
+This is a dashboard showing an Excel sheet for my first Dashboard Project managed by a skilled data analyst to optimise operations of the dat and gain insightful data analysis, hence making informed decisions.
